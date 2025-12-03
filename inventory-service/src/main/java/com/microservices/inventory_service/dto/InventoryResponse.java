@@ -1,4 +1,4 @@
-package com.Microservices.inventory_service.dto;
+package com.microservices.inventory_service.dto;
 
 
 import lombok.AllArgsConstructor;

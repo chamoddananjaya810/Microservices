@@ -1,4 +1,4 @@
-package com.Microservices.inventory_service.model;
+package com.microservices.inventory_service.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

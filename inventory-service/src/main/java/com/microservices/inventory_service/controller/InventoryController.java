@@ -1,8 +1,8 @@
-package com.Microservices.inventory_service.controller;
+package com.microservices.inventory_service.controller;
 
 
-import com.Microservices.inventory_service.dto.InventoryResponse;
-import com.Microservices.inventory_service.service.InventoryService;
+import com.microservices.inventory_service.dto.InventoryResponse;
+import com.microservices.inventory_service.service.InventoryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

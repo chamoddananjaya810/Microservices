@@ -41,7 +41,6 @@
                 <scope>test</scope>
             </dependency>
 
-
             <dependency>
                 <groupId>de.flapdoodle.embed</groupId>
                 <artifactId>de.flapdoodle.embed.mongo.spring30x</artifactId>
@@ -56,10 +55,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-            </dependency>
+
         </dependencies>
     </dependencyManagement>
 </project>
